@@ -41,7 +41,7 @@
     },
     {
       "css": ["webauth.css"],
-      "matches": ["https://webauth.uncc.edu/*"]
+      "matches": ["https://canvas.colorado.edu//*"]
     }]
 
 }
