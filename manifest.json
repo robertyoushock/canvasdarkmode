@@ -27,21 +27,7 @@
     {
       "css": ["canvas.css"],
       "js": ["canvas.js"],
-      "matches": ["https://*.instructure.com/*"]
-    },
-    {
-      "css": ["canvas.css"],
-      "js": ["canvas.js"],
-       "matches": ["https://*.fsu.edu/*"]
-    },
-    {
-
-      "css": ["webwork.css"],
-      "matches": ["https://webwork.uncc.edu/*"]
-    },
-    {
-      "css": ["webauth.css"],
-      "matches": ["https://canvas.colorado.edu//*"]
-    }]
+      "matches": ["https://canvas.colorado.edu/*"]
+	  ]
 
 }
